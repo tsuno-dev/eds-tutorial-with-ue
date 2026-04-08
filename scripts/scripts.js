@@ -18,6 +18,11 @@ import {
 } from './aem.js';
 
 /**
+ * The origin of the Document Authoring (DA) server.
+ */
+export const NX_ORIGIN = 'https://da.live';
+
+/**
  * Builds hero block and prepends to main in a new section.
  * @param {Element} main The container element
  */
