@@ -12,8 +12,3 @@ jobs:
         node-version: 20
     - run: npm ci
     - run: npm run lint
-
-    - name: AEM Code Sync
-      uses: adobe/aem-code-sync@v1
-      with:
-        aem_project_id: ${{ secrets.AEM_PROJECT_ID }}
