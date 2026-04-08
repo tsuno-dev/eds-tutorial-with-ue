@@ -14,6 +14,6 @@ jobs:
     - run: npm run lint
 
     - name: AEM Code Sync
-      uses: adobe/helix-code-sync@main
+      uses: adobe/aem-code-sync@v1
       with:
         aem_project_id: ${{ secrets.AEM_PROJECT_ID }}
