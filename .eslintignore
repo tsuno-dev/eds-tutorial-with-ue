@@ -1,1 +1,4 @@
 helix-importer-ui
+
+#サブディレクトリ内のライブラリ不整合によるエラー回避のため
+plugins/experimentation/
