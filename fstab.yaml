@@ -1,4 +1,4 @@
 mountpoints:
   /:
-    url: https://content.da.live/tsuno-dev/eds-tutorial/
+    url: https://content.da.live/tsuno-dev/eds-tutorial-with-ue/
     type: markup
