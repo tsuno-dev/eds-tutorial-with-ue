@@ -1,2 +1,3 @@
 mountpoints:
   /: https://github.com/tsuno-dev/eds-tutorial-with-ue
+test_url: https://main--eds-tutorial-with-ue--tsuno-dev.aem.page/
