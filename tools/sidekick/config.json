@@ -1,0 +1,7 @@
+{
+  "project": "eds-tutorial-with-ue-test",
+  "editUrlLabel": "Universal Editor",
+  "editUrlPattern": "https://universal-editor.adobe.com/canvas/{{org}}/{{site}}{{pathname}}",
+  "contentSourceUrl": "https://github.com/tsuno-dev/eds-tutorial-with-ue",
+  "contentSourceType": "markup"
+}
