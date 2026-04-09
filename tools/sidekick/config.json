@@ -1,5 +1,5 @@
 {
-  "project": "eds-tutorial-with-ue",
+  "project": "eds-tutorial-with-ue-test",
   "editUrlLabel": "Universal Editor",
   "editUrlPattern": "https://universal-editor.adobe.com/canvas/{{org}}/{{site}}{{pathname}}"
 }
