@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adobe/aem-block-collection.git"
+    "url": "git+https://github.com/tsuno-dev/eds-tutorial-with-ue.git"
   },
   "author": "Adobe",
   "license": "Apache License 2.0",
   "bugs": {
-    "url": "https://github.com/adobe/aem-block-collection/issues"
+    "url": "https://github.com/tsuno-dev/eds-tutorial-with-ue/issues"
   },
-  "homepage": "https://github.com/adobe/aem-block-collection#readme",
+  "homepage": "https://github.com/tsuno-dev/eds-tutorial-with-ue#readme",
   "devDependencies": {
     "@babel/eslint-parser": "7.24.8",
     "eslint": "8.57.0",
