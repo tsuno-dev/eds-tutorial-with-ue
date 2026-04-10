@@ -2,7 +2,7 @@
   "project": "eds-tutorial-with-ue-test",
   "editUrlLabel": "Universal Editor",
   "editUrlPattern": "https://universal-editor.adobe.com/canvas/{{org}}/{{site}}{{pathname}}",
-  "contentSourceUrl": {
+  "contentSource": {
     "url": "https://main--eds-tutorial-with-ue--tsuno-dev.aem.page/",
     "type": "markup"
   },
