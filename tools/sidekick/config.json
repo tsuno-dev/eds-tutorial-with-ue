@@ -1,6 +1,11 @@
 {
-  "project": "eds-tutorial-with-ue",
-  "editUrlLabel": "Document Authoring",
-  "editUrlPattern": "https://da.live/edit#/{{org}}/{{site}}{{pathname}}",
-  "contentSource": "https://github.com/tsuno-dev/eds-tutorial-with-ue"
+  "project": "eds-tutorial-with-ue-test",
+  "editUrlLabel": "Universal Editor",
+  "editUrlPattern": "https://universal-editor.adobe.com/canvas/{{org}}/{{site}}{{pathname}}",
+  "contentSource": {
+    "url": "https://main--eds-tutorial-with-ue--tsuno-dev.aem.page/",
+    "type": "markup"
+  },
+  "previewHost": "main--eds-tutorial-with-ue--tsuno-dev.aem.page",
+  "liveHost": "main--eds-tutorial-with-ue--tsuno-dev.aem.live"
 }
